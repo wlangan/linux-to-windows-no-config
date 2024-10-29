@@ -22,4 +22,10 @@ I will now issue a pull request to Wendy to see how the merge goes
 
 ### Step 3
 
-- We got come conflicts
+- I will now issue a pull request to Wendy to see how the merge goes.
+
+- There seems to be no issue with Line Endings, that is, CrLf versus Lf.
+
+### Step 3
+
+- Merge conflict resolved.
