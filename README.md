@@ -18,10 +18,14 @@
 
 ### Step 2
 
+I will now issue a pull request to Wendy to see how the merge goes
+
+### Step 3
+
 - I will now issue a pull request to Wendy to see how the merge goes.
 
 - There seems to be no issue with Line Endings, that is, CrLf versus Lf.
 
 ### Step 3
 
-- Let's create a merge conflict.
+- Merge conflict resolved.
