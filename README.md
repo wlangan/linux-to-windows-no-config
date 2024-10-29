@@ -19,3 +19,7 @@
 ### Step 2
 
 I will now issue a pull request to Wendy to see how the merge goes
+
+### Step 3
+
+- We got come conflicts
