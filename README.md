@@ -50,6 +50,7 @@ I will now issue a pull request to Wendy to see how the merge goes
 
 - Get one commit ahead of Tom
 
-## Step 9 
+## Step 9
 
+- Tom added this step. It will be in an upcoming PR.
 - Wendy added this step.
