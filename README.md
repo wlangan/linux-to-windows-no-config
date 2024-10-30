@@ -53,3 +53,4 @@ I will now issue a pull request to Wendy to see how the merge goes
 ## Step 9
 
 - Tom added this step. It will be in an upcoming PR.
+- Wendy added this step.
