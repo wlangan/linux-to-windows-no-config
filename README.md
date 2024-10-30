@@ -36,3 +36,7 @@ I will now issue a pull request to Wendy to see how the merge goes
 
 - He has now cloned from wlangan's repo
 - Let's see what Tom gets now.
+
+### Step 6
+
+- I have changed the upstream to see how that affects the behavior of Tom's local VS Code experience if he issues a pull from upstream.
