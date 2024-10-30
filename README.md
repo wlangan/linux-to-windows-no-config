@@ -40,3 +40,7 @@ I will now issue a pull request to Wendy to see how the merge goes
 ### Step 6
 
 - I have changed the upstream to see how that affects the behavior of Tom's local VS Code experience if he issues a pull from upstream.
+
+### Step 7
+
+- I have changed the upstream to see how that affects the behavior of Tom's local VS Code experience if he issues a pull from upstream but has made changes locally in the interim.
