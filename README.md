@@ -49,3 +49,7 @@ I will now issue a pull request to Wendy to see how the merge goes
 ## Step 8
 
 - Get one commit ahead of Tom
+
+## Step 9 
+
+- Wendy added this step.
