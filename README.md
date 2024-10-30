@@ -30,3 +30,9 @@ I will now issue a pull request to Wendy to see how the merge goes
 
 - Merge conflict resolved.
 - Let's see what Tom gets
+- He got nothing in the pull because he cloned from his fork
+
+### Step 5
+
+- He has now cloned from wlangan's repo
+- Let's see what Tom gets now.
