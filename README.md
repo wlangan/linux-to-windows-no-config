@@ -45,3 +45,7 @@ I will now issue a pull request to Wendy to see how the merge goes
 
 - These changes conflict with what Wendy did but she decided to keep them along with her's below.
 - I have changed the upstream to see how that affects the behavior of Tom's local VS Code experience if he issues a pull from upstream but has made changes locally in the interim.
+
+## Step 8
+
+- Get one commit ahead of Tom
